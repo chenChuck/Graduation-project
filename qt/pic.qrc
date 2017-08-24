@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>picture/anniu.ico</file>
+        <file>picture/logo.jpg</file>
+        <file>picture/land.jpg</file>
+        <file>picture/白色.jpg</file>
+        <file>picture/Image.png</file>
+        <file>picture/用户背景.jpg</file>
+    </qresource>
+</RCC>
